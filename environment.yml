@@ -1,4 +1,4 @@
-name: githprovaenv
+name: dcmenv
 channels:
   - bioconda
   - defaults
